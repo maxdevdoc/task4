@@ -1,0 +1,17 @@
+.table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+  }
+  
+.t {
+    border: 1px solid black;
+    width: 150px;
+  }
+
+.block_test{
+  margin-top: 30%;
+}
+
+  
