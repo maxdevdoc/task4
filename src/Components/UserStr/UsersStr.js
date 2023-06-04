@@ -17,7 +17,7 @@ function UsersStr(props) {
         <table className={module.table}>
           <tr>
             <td>
-              <input type="checkbox" name={props.id} State={a}/>
+              <input type="checkbox" name={props.id} checked={a}/>
             </td>
             <td className={module.t}>{props.id}</td>
             <td className={module.t}>{props.name}</td>
